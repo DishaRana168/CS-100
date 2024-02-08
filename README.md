@@ -13,7 +13,7 @@ This Python script implements a simple console-based Rock, Paper, Scissors game 
    - Paper beats Rock
    - If both choices are the same, it's a tie.
 
-## Example
+## Demo
 ```
 Round 1
 Make your choice: rock
