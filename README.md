@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock, Paper, Scissors 
 
 ## Description
 This Python script implements a simple console-based Rock, Paper, Scissors game where the user plays against the computer. The game runs for a total of 5 rounds.
